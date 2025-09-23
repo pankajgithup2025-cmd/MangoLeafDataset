@@ -2,7 +2,7 @@ The dataset comprises six classes of Mango Leaf Disease, namely Anthracnose, Die
 This dataset can be utilized not only for disease classification but also for a wide range of computer vision research tasks. 
 It provides a strong foundation for training and evaluating deep learning architectures, performing transfer learning experiments, and benchmarking novel lightweight models suitable for real-time agricultural 
 applications.
-| Class Name**        | Samples |
+| Class Name           | Samples     |
 | -------------------- | ----------- |
 | Anthracnose          | 886         |
 | Dieback              | 1084        |
